@@ -1,12 +1,33 @@
-# Real-Time Multimodal Emotion Recognition
+# Real-Time Multimodal Emotion Recognition for self-assessment usage
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/maelfabien.svg?style=social"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/maelfabien/Multimodal-Emotion-Recognition.svg"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/maelfabien/Multimodal-Emotion-Recognition.svg"> <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3.svg">
+## Credit: Early Contributors
 
-Don't hesitate to ⭐ the repo if you enjoy our work !
+<table><tr><td align="center">
+	<a href="https://github.com/Anatoli-deBRADKE">
+	<img src="https://avatars1.githubusercontent.com/u/43547776?v=4" width="100px;" alt="Anatoli-deBRADKE"/>
+	<br />
+	<sub><b>Anatoli-deBRADKE</b></sub>
+	</a><br /><a href="https://github.com/maelfabien/Multimodal-Emotion-Recognition/commits?author=Anatoli-deBRADKE" title="Code">💻</a></td>
+	<td align="center"><a href="https://github.com/maelfabien"><img src="https://avatars0.githubusercontent.com/u/24256555?v=4" width="100px;" alt="mfix22"/>
+	<br /><sub><b>maelfabien</b></sub>
+	</a><br /><a href="https://github.com/maelfabien/Multimodal-Emotion-Recognition/commits?author=maelfabien" title="Code">💻</a></td>
+	<td align="center"><a href="https://github.com/RaphaelLederman"><img src="https://avatars2.githubusercontent.com/u/38351531?v=4" width="100px;" alt="mfix22"/>
+	<br /><sub><b>RaphaelLederman</b></sub>
+	</a><br /><a href="https://github.com/maelfabien/Multimodal-Emotion-Recognition/commits?author=RaphaelLederman" title="Code">💻</a></td>
+	<td align="center"><a href="https://github.com/STF-R"><img src="https://avatars0.githubusercontent.com/u/43505879?v=4" width="100px;" alt="mfix22"/>
+	<br /><sub><b>STF-R</b></sub>
+	</a><br /><a href="https://github.com/maelfabien/Multimodal-Emotion-Recognition/commits?author=STF-R" title="Code">💻</a></td>
+
+</tr></table>
+
+Don't hesitate to ⭐ the repo if you enjoy their work !
 
 ## In a nutshell
 
-We developped a multimodal emotion recognition platform to analyze the emotions of job candidates, in partnership with the French Employment Agency.
+In this fork, our goal is to make a self psycological assessment report that goes to (if the user agree, obviously) from their facial, text, and voice expressions. If professional assistance is needed, the report will be forwarded to them for future mental assestment.
+
+This goal aimed to develop a media (mainly social media, probably also based on flask) that can increase mental health awareness especially in Indonesia where social media is at its peak. There were 175.4 M internet user in Indonesia and 160 M of them uses social media (Kemp, 2020 [https://datareportal.com/reports/digital-2020-indonesia]).
 
 We analye facial, vocal and textual emotions, using mostly deep learning based approaches. We deployed a web app using Flask :
 
@@ -181,23 +202,6 @@ To use the web app :
 
 If you are interested in the research paper we are working on currently, feel free to check out this link :
 https://www.overleaf.com/read/xvtrrfpvzwhf
+(master paper)
 
-## VII. Contributors
-
-<table><tr><td align="center">
-	<a href="https://github.com/Anatoli-deBRADKE">
-	<img src="https://avatars1.githubusercontent.com/u/43547776?v=4" width="100px;" alt="Anatoli-deBRADKE"/>
-	<br />
-	<sub><b>Anatoli-deBRADKE</b></sub>
-	</a><br /><a href="https://github.com/maelfabien/Multimodal-Emotion-Recognition/commits?author=Anatoli-deBRADKE" title="Code">💻</a></td>
-	<td align="center"><a href="https://github.com/maelfabien"><img src="https://avatars0.githubusercontent.com/u/24256555?v=4" width="100px;" alt="mfix22"/>
-	<br /><sub><b>maelfabien</b></sub>
-	</a><br /><a href="https://github.com/maelfabien/Multimodal-Emotion-Recognition/commits?author=maelfabien" title="Code">💻</a></td>
-	<td align="center"><a href="https://github.com/RaphaelLederman"><img src="https://avatars2.githubusercontent.com/u/38351531?v=4" width="100px;" alt="mfix22"/>
-	<br /><sub><b>RaphaelLederman</b></sub>
-	</a><br /><a href="https://github.com/maelfabien/Multimodal-Emotion-Recognition/commits?author=RaphaelLederman" title="Code">💻</a></td>
-	<td align="center"><a href="https://github.com/STF-R"><img src="https://avatars0.githubusercontent.com/u/43505879?v=4" width="100px;" alt="mfix22"/>
-	<br /><sub><b>STF-R</b></sub>
-	</a><br /><a href="https://github.com/maelfabien/Multimodal-Emotion-Recognition/commits?author=STF-R" title="Code">💻</a></td>
-
-</tr></table>
+our paper will be released soon, it probably takes 1 or 2 years after i forked this
